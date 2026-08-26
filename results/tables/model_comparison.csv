@@ -1,0 +1,7 @@
+model,macro_f1
+CatBoostClassifier,0.5989929607892298
+Weighted Soft Voting,0.5973843875191512
+XGBClassifier,0.5968477874179817
+DecisionTreeClassifier,0.5749141807583611
+RandomForestClassifier,0.5673910613224382
+LogisticRegression,0.5639713121957683
