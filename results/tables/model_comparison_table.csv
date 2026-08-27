@@ -1,0 +1,9 @@
+Model,Accuracy(%),F1-Score(%),Precision(%),Recall(%),ROC-AUC(%)
+DecisionTreeClassifier,72.70,57.49,57.65,57.70,84.30
+RandomForestClassifier,70.95,56.74,56.85,62.40,89.45
+XGBClassifier,74.61,59.68,60.21,59.65,90.67
+LogisticRegression,70.59,56.40,56.07,61.61,88.85
+CatBoostClassifier,74.58,59.90,60.15,60.11,90.81
+LGBMClassifier,74.97,59.46,60.85,58.88,90.72
+Ensemble Model (Hard Voting),74.78,59.75,60.46,59.56,N/A
+Ensemble Model (Soft Voting),74.83,59.84,60.66,59.58,90.87
