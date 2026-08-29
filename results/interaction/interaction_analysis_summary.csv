@@ -1,0 +1,7 @@
+interaction,income_comparison,coefficient,p_value
+digital_index × education_years,Lower vs No_income,0.19769743432405576,1.1797705857867008e-165
+digital_index × education_years,Middle vs No_income,0.23788143172364512,4.9916134967209936e-210
+digital_index × education_years,Upper vs No_income,0.2585933198179951,2.4919304928522205e-77
+digital_index × agri_worker,Lower vs No_income,-2.433675238109943,0.003827962696500596
+digital_index × agri_worker,Middle vs No_income,-2.2864568525937936,0.006614269332901302
+digital_index × agri_worker,Upper vs No_income,-0.17846230026688795,0.9324830032589081
